@@ -168,7 +168,7 @@ The predictions provided by this Alzheimer's prediction model are based on a mac
         </tr>
         <tr>
             <td>M/F</td>
-            <td>Gender: 0 for Male, 1 for Female</td>
+            <td>Gender: 0 for Female, 1 for Male</td>
         </tr>
         <tr>
             <td>Age</td>
